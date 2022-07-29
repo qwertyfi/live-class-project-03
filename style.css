@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+    
+   }
+    
+  
+   body {
+    height: 150%;
+    background-image: url("./assets/pexels-ekaterina-bolovtsova-6077326.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   }
+   .container {
+     background: rgb(62, 51, 40);
+    position: absolute;
+    max-height: 50vh;
+    width: 100%;
+   }
+  
+  
+   section
+   {margin: 40px;}
+  
+  /* ------------------------------ */
+  /* ---------- NAVBAR ------------ */
+  /* ------------------------------ */
+  .list li {
+    color: rgb(106, 106, 106);
+    padding: 30px 25px;
+    list-style-type: none;
+    font-size: 20px;
+    cursor: pointer;
+    
+  }
+  .list li:hover{
+    color: white;
+    font-weight: bolder;
+  }
+  
+  
+  .list{
+    
+      position: absolute;
+      top: 30px;
+      left: 35%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      
+  
+  
+  }
+  
+  
+  .button-small {
+    
+    border: rgb(172, 115, 36) solid;
+    color: rgb(172, 115, 36);
+    background-color: transparent;
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px ;
+    position: absolute;
+    top: 40px;
+    left: 80%;
+    cursor: pointer;
+  }
+  
+  .button-small:active {
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  
+  /* ------------------------------ */
+  /* ---------- HERO ------------ */
+  /* ------------------------------ */
+
+  .hero {
+    display: flex;
+  }
+  
+  
+  .hero-heading {
+   color: rgb(254, 254, 254);
+   font-size: 4rem;
+   font-family: Dela Gothic One;
+   text-align: left;
+   font-weight: 200;
+   position: relative;
+   top: 0;
+   margin:5vh 20vh;
+   width: 90%;
+    }
+
+    .hero-paragraph{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(205, 205, 205);
+        font-size: 22px;
+        text-align: left;
+        width: 60%;
+        margin-top: 10vh;
+        margin-right: 100px;
+        word-spacing: 1px;
+
+    }
+  
+   
+    .button-large:active {
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+  
+  
+    img[alt="bottom-logo" ]{
+      position: relative;
+      left: 85%;
+  
+  
+    }
