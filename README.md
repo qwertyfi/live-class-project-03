@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Technologies-HTML--CSS-orange)
-# Project-01 | Porfolio Web Page
+# Project-03 | Law Home Page
 Hi there,
 I'm Wasit Ali and this is my 3rd project on HTML and CSS in my [web dev bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer). 
 
@@ -9,6 +9,7 @@ I'm Wasit Ali and this is my 3rd project on HTML and CSS in my [web dev bootcamp
 
 
 ## 🖥 Preview
+![](./assets/2022-08-10-21-50-59.png)
 `note:` please make sure the preview screen is `1920 x 1080` and the site is not responsive as of now.
 
 [Live Preview](https://delightful-granita-bc542e.netlify.app/)
